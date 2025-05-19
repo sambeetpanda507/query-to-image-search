@@ -1,4 +1,4 @@
-# query-to-image
+# query-to-image-search
 
 A Python CLI tool that takes a user query, optimizes it for image search using OpenAI, and fetches relevant image URLs from Google Images via SerpAPI. The results are saved to `images.json`.
 
