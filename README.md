@@ -28,5 +28,7 @@ A Python CLI tool that takes a user query, optimizes it for image search using O
 
 ## NOTE: 
 create a .env file and add the following variables
+```shell
 SERP_API_KEY="your_serp_api_key"
 OPEN_AI_API_KEY="your_open_api_key"
+```
